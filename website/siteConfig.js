@@ -14,7 +14,7 @@ const users = [];
 const siteConfig = {
     title: 'Hannah Sutton', // Title for your website.
     tagline: 'Continuously improving, aspiring technologist.',
-    profilePhoto: 'img/profile.png',
+    profilePhoto: 'img/HannahSutton-80.jpg',
     url: 'https://hrsutton.github.io', // Your website URL
     baseUrl: '/tech-portfolio/', // Base URL for your project */
     // For github.io type URLs, you would set the url and baseUrl like:
@@ -67,7 +67,7 @@ const siteConfig = {
     enableUpdateTime: true,
 
     socialMedia: {
-        linkedin: '/hannah-sutton-66365b54/',
+        linkedin: 'hannah-sutton-66365b54/',
         twitter: '',
         github: '',
     },
