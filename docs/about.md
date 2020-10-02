@@ -3,30 +3,16 @@ id: about
 title: About
 ---
 
-You can start your "About" page with an elevator pitch, one or two
-sentences about you! The rest of this page page can
-include a little bit about yourself. Some things you
-might include:
+I moved to Dallas in 2016 to follow my dream to work in cyber security. In the last few years I have discovered that my passion is working in security but also cyber security awareness to make sure every developer can practice security down to the code level. I feel it is important to spread the awareness of DevSecOps in edition to DevOps. Both are essential for application maintainability but DevSecOps is crucial to maintain customer trust and reputation. Security is a mindset and not just a hobby. 
 
-1. Your current position
-1. Organizations you're involved with
-1. Your personal and professional values
-1. Hobbies or fun facts
-
-Write it in first (I) or third (Your Name Here) person.
-
-> Don't know what to write? Get a good friend to help! Set some time aside to soundboard.
 
 ## Current Role
 
-Grace Hopper Celebration Attendee
+Software Engineer at USAA 
 
 ## Recognition
 
-- 2020 Awesome Woman in Technology Award
 
 ## Social Media
-
-- Twitter
 - LinkedIn
 - GitHub
